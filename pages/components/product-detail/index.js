@@ -31,10 +31,8 @@ class Productdetail extends React.Component {
                     <title>{this.state.productTitle}</title>
                     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                     <meta property="og:title" content={this.state.productTitle} />
-                 
                      <meta property="og:url" content={window.location.href} />
-                    <meta property="og:description"
-                        content="Shud atta" />
+                    <meta property="og:description" content="Shud atta" />
                     <meta property="og:site_name" content="IMDb" />
                     <meta property="og:locale" content="en_US" />
                     <meta property="og:locale:alternate" content="en_GB" />
