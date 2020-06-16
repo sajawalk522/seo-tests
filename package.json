@@ -12,8 +12,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "prod": "next export"
+    "start": "next start"
     },
   "keywords": [],
   "author": "",
