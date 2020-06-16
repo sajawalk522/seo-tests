@@ -26,7 +26,6 @@ class Productdetail extends React.Component {
         this.setState({ image: marvelHeroes[0].image });
     }
     render() {
-        const window
         return (
             <div>
                 <Head>
