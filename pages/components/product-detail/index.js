@@ -1,6 +1,7 @@
 
 
-import Head from 'next/head'
+import Head from 'next/head';
+
 
 class Productdetail extends React.Component {
     state = {
@@ -25,6 +26,7 @@ class Productdetail extends React.Component {
         this.setState({ image: marvelHeroes[0].image });
     }
     render() {
+        const window
         return (
             <div>
                 <Head>
