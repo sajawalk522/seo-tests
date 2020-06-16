@@ -31,7 +31,7 @@ class Productdetail extends React.Component {
                     <title>{this.state.productTitle}</title>
                     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                     <meta property="og:title" content={this.state.productTitle} />
-                    <meta property="og:url" content="http://localhost:3000/" />
+                    <meta property="og:url" content="https://seo-test.vercel.app/product?id=1" />
                     <meta property="og:description"
                         content="Shud atta" />
                     <meta property="og:site_name" content="IMDb" />
